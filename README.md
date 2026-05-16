@@ -1,4 +1,4 @@
-# SmartChef AI 🍳
+# SmartChef AI
 
 SmartChef AI is an AI-powered cooking assistant that helps users create recipes using ingredients available at home.
 
